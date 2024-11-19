@@ -6,7 +6,7 @@ At KP Labs, we promote and support the fair and transparent process of machine l
 This page delivers links to the relevant repositories, dataset descriptions, as well as to the published scientific papers built upon the corresponding datasets.
 If you feel that the dataset is useful for your research activities, it would be great if you could acknowledge and cite the corresponding works.
 
-##### Jump to: [ESA-AD](#ESA-AD) (`AD`, `telemetry`), [OPSSAT-AD](#OPSSAT Anomaly Dataset) (`AD`, `telemetry`), [HYPERVIEW](#HYPERVIEW) (`EO`, `images`), [MuS2](#MuS2) (`SSR`, `images`)
+##### Jump to: [ESA-AD](#ESA-AD) (`AD`, `telemetry`), [OPSSAT-AD](#OPSSAT-AD) (`AD`, `telemetry`), [HYPERVIEW](#HYPERVIEW) (`EO`, `images`), [MuS2](#MuS2) (`SSR`, `images`)
 
 # Anomaly detection in satellite telemetry data 
 
