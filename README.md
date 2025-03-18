@@ -16,6 +16,7 @@ If you feel that the dataset is useful for your research activities, it would be
   - keywords: `machine learning`, `deep learning`, `unsupervised learning`, `supervised learning`, `European Space Agency`, `ESA`, `telemetry`, `signal processing`, `anomaly detection`
 - DATA FILES: [DOI: 10.5281/zenodo.12528696](https://zenodo.org/records/12528696)
 - CODE: [github.com/kplabs-pl/ESA-ADB](https://github.com/kplabs-pl/ESA-ADB)
+- OFFICIAL KAGGLE CHALLENGE AND PREPROCESSED DATA: [https://www.kaggle.com/competitions/esa-adb-challenge](https://www.kaggle.com/competitions/esa-adb-challenge)
 
 - DATASET PAPER: [Arxiv link](https://arxiv.org/abs/2406.17826), [BibTex file](bibtex/esaad.bib)
   - Kotowski. K., Haskamp, C., et al.: European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry, 2024, ArXiv
