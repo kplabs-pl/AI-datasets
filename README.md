@@ -33,8 +33,8 @@ If you feel that the dataset is useful for your research activities, it would be
 - DATA FILES: [DOI: 10.5281/zenodo.12588359](https://zenodo.org/records/12588359)
 - CODE: [github.com/kplabs-pl/OPS-SAT-AD](https://github.com/kplabs-pl/OPS-SAT-AD)
 
-- DATASET PAPER: [Arxiv link](https://arxiv.org/abs/arXiv:2407.04730), [BibTex file](bibtex/opssat.bib)
-  - Ruszczak, B., Kotowski. K., Evans, D., Nalepa, J.: The OPS-SAT benchmark for detecting anomalies in satellite telemetry, 2024, ArXiv
+- DATASET PAPER: [Scientific Data](https://doi.org/10.1038/s41597-025-05035-3), [BibTex file](bibtex/opssat.bib)
+  - Ruszczak, B., Kotowski. K., Evans, D., Nalepa, J.: The OPS-SAT benchmark for detecting anomalies in satellite telemetry, 2025, Scientific Data
     - _Highlights:_ delivers the baseline results for the unsupervised and supervised learning for the anomaly detection using this dataset,
 
 - RESULTS PAPER: [ICCS 2023](https://doi.org/10.1007/978-3-031-35995-8_21), [BibTex file](bibtex/opssat-iccs.bib) 
