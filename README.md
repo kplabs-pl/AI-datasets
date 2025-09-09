@@ -12,17 +12,21 @@ If you feel that the dataset is useful for your research activities, it would be
 
 ## ESA-AD
 - ESA Anomaly Dataset (ESA-AD) is the first large-scale, real-life satellite telemetry dataset with curated anomaly annotations originated from three ESA missions. We hope that this unique dataset will allow researchers and scientists from academia, research institutes, national and international space agencies, and industry to benchmark anomaly detection models and approaches on a common baseline as well as research and develop novel, computational-efficient approaches for anomaly detection in satellite telemetry data.
-  - metadata: `anomaly detection`, <kbd>timeseries</kbd>, `~12 GB`, `3 missions`, several years long telemetries, `CC-BY`
+  - metadata: `anomaly detection`, `timeseries`, `~12 GB`, `3 missions`, `long telemetries`, `CC-BY`
   - keywords: `machine learning`, `deep learning`, `unsupervised learning`, `supervised learning`, `European Space Agency`, `ESA`, `telemetry`, `signal processing`, `anomaly detection`
-- DATA FILES: [DOI: 10.5281/zenodo.12528696](https://zenodo.org/records/12528696)
+- DATA FILES: [DOI: 10.5281/zenodo.12528695](https://zenodo.org/records/12528695)
 - CODE: [github.com/kplabs-pl/ESA-ADB](https://github.com/kplabs-pl/ESA-ADB)
-- OFFICIAL KAGGLE CHALLENGE AND PREPROCESSED DATA: [https://www.kaggle.com/competitions/esa-adb-challenge](https://www.kaggle.com/competitions/esa-adb-challenge)
+- OFFICIAL KAGGLE CHALLENGE: [https://www.kaggle.com/competitions/esa-adb-challenge](https://www.kaggle.com/competitions/esa-adb-challenge)
+- ANNOTATION TOOL: [https://oxi.kplabs.pl/](https://oxi.kplabs.pl/)
 
-- DATASET PAPER: [Arxiv link](https://arxiv.org/abs/2406.17826), [BibTex file](bibtex/esaad.bib)
-  - Kotowski. K., Haskamp, C., et al.: European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry, 2024, ArXiv
-    - _Highlights:_ processing and evaluation procedures description, with results of typical anomaly detection algorithms assessed in our novel hierarchical evaluation pipeline show that new approaches are necessary to address operators' needs using this dataset.
-- PROJECT PAPER:
-  - De Canio, G. et al. (2023) Development of an actionable AI roadmap for automating mission operations. In, 2023 SpaceOps Conference. American Institute of Aeronautics and Astronautics, Dubai, UAE.
+- MAIN PAPER: [Arxiv link](https://arxiv.org/abs/2406.17826), [BibTex file](bibtex/esaad.bib)
+  - Kotowski, K., Haskamp, C., Andrzejewski, J., Ruszczak, B., Nalepa, J., Lakey, D., Collins, P., Kolmas, A., Bartesaghi, M., Martinez-Heras, J., & De Canio, G. (2024). European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry
+    - _Highlights:_ processing and evaluation procedures description, with results of typical anomaly detection algorithms assessed in our novel hierarchical evaluation pipeline show that new approaches are necessary to address operators' needs.
+- PAPER ABOUT ANNOTATION PROCEDURES: [https://doi.org/10.2760/46796](https://doi.org/10.2760/46796)
+  - Kotowski, K., Haskamp, C., Ruszczak, B., Andrzejewski, J., & Nalepa, J. (2023). Annotating Large Satellite Telemetry Dataset For ESA International AI Anomaly Detection Benchmark. Proceedings of the 2023 Conference on Big Data from Space, 341–344.
+- SPACEOPS 2025 CONFERENCE PAPER: [SpaceOps archive](https://star.spaceops.org/2025/user_manudownload.php?doc=152__57v8n7en.pdf)
+  - Kotowski, K., Haskamp, C., Andrzejewski, J., Ruszczak, B., Nalepa, J., Lakey, D., Collins, P., Bartesaghi, M., Martinez-Heras, J., & De Canio, G. (2025). The Making of the European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry. 2025 SpaceOps Conference. Montreal, Canada.
+
 
 
 ## OPSSAT-AD
@@ -37,7 +41,7 @@ If you feel that the dataset is useful for your research activities, it would be
   - Ruszczak, B., Kotowski. K., Evans, D., Nalepa, J.: The OPS-SAT benchmark for detecting anomalies in satellite telemetry, 2025, Scientific Data
     - _Highlights:_ delivers the baseline results for the unsupervised and supervised learning for the anomaly detection using this dataset,
 
-- RESULTS PAPER: [ICCS 2023](https://doi.org/10.1007/978-3-031-35995-8_21), [BibTex file](bibtex/opssat-iccs.bib) 
+- RESEARCH PAPER: [ICCS 2023](https://doi.org/10.1007/978-3-031-35995-8_21), [BibTex file](bibtex/opssat-iccs.bib) 
   - Ruszczak, B., Kotowski. K., Andrzejewski, J., Nalepa, J., et al.: (2023). Machine Learning Detects Anomalies in OPS-SAT Telemetry. Computational Science – ICCS 2023. LNCS, vol 14073. Springer, https://doi.org/10.1007/978-3-031-35995-8_21
     - _Highlights:_ delivers the anomaly detection results, improved using the synthetic intermediate features generation and telemetry segments augmentation
  
